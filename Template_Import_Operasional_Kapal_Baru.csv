@@ -1,0 +1,6 @@
+Nama Kapal,Nomor SO,Jenis Kapal,Operator Kapal,Agen/PBM,LOA/LBP,GT/NT,Draft,Bendera,Pelabuhan,Jetty / Dermaga,ETA,ETB,ATA/ATB (Berthing),ETD,Tipe Aktivitas,Komoditas,Target Volume (Ton)
+MV Nusantara Satu,SO-2026-001,Vessel,PT Pelayaran Nasional,PT Keagenan Makmur,120m,5000 / 2500,6.5m,Indonesia,Pelabuhan IPIP,Jetty 1,10/20/2026 8:00,10/21/2026 7:00,10/21/2026 8:00,10/22/2026 14:00,LOADING,Biosolar,15000
+TB. Mitra Samudera,SO-2026-002,Tugboat,PT Samudera Mandiri,PT Bahari Sejahtera,35m,250 / 100,3.2m,Indonesia,Pelabuhan IPIP,Jetty 2,10/20/2026 12:00,10/21/2026 9:00,10/21/2026 9:30,10/21/2026 22:00,UNLOADING,Oli,4500.5
+BG. Bahtera Indah,SO-2026-003,Deck Cargo Barge,PT Pelayaran Bahtera,PT Lintas Samudera,90m,3000 / 1500,5.0m,Indonesia,Pelabuhan IPIP,Jetty 3,10/20/2026 15:00,10/21/2026 9:30,10/21/2026 10:00,10/23/2026 6:00,LOADING,CPO,22000
+MV Meratus Jaya,SO-2026-004,Container Ship,PT Meratus Line,PT Meratus Agency,140m,8000 / 4000,7.2m,Indonesia,Pelabuhan IPIP,Jetty 4,10/21/2026 6:00,10/21/2026 11:30,10/21/2026 12:15,10/22/2026 18:30,UNLOADING,B40,18500.25
+TB. Hercules IX,SO-2026-005,Tugboat,Marine Services Sdn Bhd,PT Pelabuhan Nusantara,32m,220 / 90,3.0m,Malaysia,Pelabuhan IPIP,Jetty 5,10/21/2026 20:00,10/22/2026 0:30,10/22/2026 1:00,10/22/2026 12:00,LOADING,FAME,8000

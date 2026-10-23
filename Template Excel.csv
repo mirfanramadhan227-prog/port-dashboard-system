@@ -1,0 +1,11 @@
+Nama Kapal,Nomor SO,Jenis Kapal,Bendera,Pelabuhan,Jetty / Dermaga,Waktu Berthing (Sandar),Waktu Departed (Berangkat),Tipe Aktivitas,Komoditas,Target Volume (Ton)
+MV Nusantara Satu,SO-2026-001,Vessel,Indonesia,Pelabuhan Utama Tanjung Priok,Jetty / Dermaga,10/21/2026 8:00,10/22/2026 14:00,LOADING,Biosolar,15000
+TB. Mitra Samudera,SO-2026-002,Tug Boat,Indonesia,Pelabuhan Utama Tanjung Priok,Jetty 1,10/21/2026 9:30,10/21/2026 22:00,UNLOADING,Oli,4500.5
+BG. Bahtera Indah,SO-2026-003,Barge,Indonesia,Pelabuhan Utama Tanjung Priok,Jetty 2,10/21/2026 10:00,10/23/2026 6:00,LOADING,CPO,22000
+MV Meratus Jaya,SO-2026-004,Vessel,Indonesia,Pelabuhan Utama Tanjung Priok,Jetty 3,10/21/2026 12:15,10/22/2026 18:30,UNLOADING,B40,18500.25
+TB. Hercules IX,SO-2026-005,Tug Boat,Malaysia,Pelabuhan Utama Tanjung Priok,Jetty 4,10/22/2026 1:00,10/22/2026 12:00,LOADING,FAME,8000
+BG. Power Trans,SO-2026-006,Barge,Indonesia,Pelabuhan Utama Tanjung Priok,Jetty 5,10/22/2026 4:00,10/24/2026 10:00,LOADING,B50,30000
+MV Baruna Bahagia,SO-2026-007,Vessel,Singapura,Pelabuhan Utama Tanjung Priok,WAITING_LIST,,-,UNLOADING,Biosolar,0
+TB. Kartika Mandiri,SO-2026-008,Tug Boat,Indonesia,Pelabuhan Utama Tanjung Priok,WAITING_LIST,,-,LOADING,Oli,0
+MV Global Star,SO-2026-009,Vessel,Panama,Pelabuhan Utama Tanjung Priok,Jetty 6,10/22/2026 6:30,10/23/2026 16:00,UNLOADING,CPO,12500.75
+BG. Mega Buana,SO-2026-010,Barge,Indonesia,Pelabuhan Utama Tanjung Priok,WAITING_LIST,10/22/2026 8:00,10/23/2026 20:00,LOADING,B40,19000
