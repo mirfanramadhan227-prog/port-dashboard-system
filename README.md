@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="http://tbi-port-monitoring-system.page.gd/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_AKSES_LIVE_DEMO-TBI_Port_Monitoring-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-7.4%2B%20%2F%208.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -66,11 +72,3 @@ port-dashboard-system/
 ├── export_excel.php            # Modul ekspor laporan Excel
 ├── schema.sql                  # Struktur basis data MySQL
 └── .gitignore                  # Berkas pengecualian Git (Keamanan kredensial)
-
----
-
-## <p align="center">
-  <a href="http://tbi-port-monitoring-system.page.gd/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Akses_Live_Demo-TBI_Port_Monitoring-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
-  </a>
-</p>
