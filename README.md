@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
 </p>
 
-> 🚀 **Live Demo System:** [http://tbi-port-monitoring-system.page.gd/](http://tbi-port-monitoring-system.page.gd/)
-
 ---
 
 ## 🚀 Tentang Proyek
@@ -68,3 +66,11 @@ port-dashboard-system/
 ├── export_excel.php            # Modul ekspor laporan Excel
 ├── schema.sql                  # Struktur basis data MySQL
 └── .gitignore                  # Berkas pengecualian Git (Keamanan kredensial)
+
+---
+
+## <p align="center">
+  <a href="http://tbi-port-monitoring-system.page.gd/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Akses_Live_Demo-TBI_Port_Monitoring-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+  </a>
+</p>
